@@ -1,6 +1,9 @@
 # hadits-api
 Hadits - hadits api
 
+api untuk medapatkan hadits hadits secara gratis
+dengan cara melakukan post ke link berikut
+
 ### Request POST
     https://hadits-api.herokuapp.com/api
 
